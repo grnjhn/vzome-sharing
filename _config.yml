@@ -13,14 +13,14 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 ############################
 
 # Name of website
-title: My vZome Designs
+title: My Dimtool Designs
 
 # Your name to show in the footer
 #author: John Doe
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: My vZome Designs
+rss-description: My Dimtool Designs
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -126,7 +126,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#2E5157"
+navbar-col: "#7F7F7F"
 navbar-text-col: "#EDF3F4"
 navbar-border-col: "#99B1B5"
 page-col: "#FFFFFF"
