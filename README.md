@@ -3,4 +3,4 @@ This is a template for repositories used to share vZome designs.  See [instructi
 
 [sharing]: https://vZome.github.io/vzome/sharing.html
 
-https://grnjhn.github.io/vzome-sharing/
+https://linusschoch.github.io/vzome-sharing/
